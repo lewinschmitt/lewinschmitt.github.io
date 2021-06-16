@@ -20,7 +20,7 @@ I just started my PhD journey, so my [Google Scholars](https://scholar.google.co
 
 ## Teaching
 
-I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324) for the Master programmes at IBEI.
+I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324) for the Masters programmes at IBEI.
 
 ## Work in progress
 
