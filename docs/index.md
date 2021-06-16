@@ -1,4 +1,4 @@
-## Welcome to my website
+## lewinschmitt.github.io - Welcome to my website
 
 I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/). I am also a predoctoral research fellow at the [Institut Barcelona d'Estudis Internacionals](http://ibei.org/) (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on "Global Governance and the European Union: Future Trends and Scenarios".
 
