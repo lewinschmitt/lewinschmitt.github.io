@@ -2,7 +2,7 @@
 
 I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/). I am also a predoctoral research fellow at the Institut Barcelona d'Estudis Internacionals](http://ibei.org/) (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on "Global Governance and the European Union: Future Trends and Scenarios".
 
-My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy. Besides decision-making in the European Commission I am particularly interested in the public political debates about European and international institutions.
+My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy. My PhD supervisor is [Jacint Jordana](https://scholar.google.com/citations?user=IQLfIgMAAAAJ&hl=en).
 
 From a methodological point of view, I am curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques.
 
@@ -18,16 +18,21 @@ I just started my PhD journey, so my [Google Scholars](https://scholar.google.co
 - Borges de Castro, Ricardo; Lewin Schmitt. 2020. [COVID-19: Time to Put Strategic Foresight at the Heart of Leadership(https://www.globe-project.eu/en/covid-19-time-to-put-strategic-foresight-at-the-heart-of-leadership_10031)]. GLOBE Blog.
 - Lewin Schmitt. 2019. [Rethinking Strategic Autonomy in the Digital Age](https://op.europa.eu/en/publication-detail/-/publication/889dd7b7-0cde-11ea-8c1f-01aa75ed71a1/language-en/format-PDF). EPSC Strategic Notes, Issue 30.
 
+## Teaching
+
+I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324) for the Master programmes at IBEI.
+
 ## Work in progress
 
+- A text mining analysis of Twitter data to study the EU's external relations with selected countries
 - A quantitative study of the global governance literature: "The Study of Global Governance: An Analytic Portrait"; with Charles Roger, Jacint Jordana & Adam Holesch
 - A qualitative case study of the EU's approach towards debating Lethal Autonomous Weapons Systems (LAWS) at the UN CCW in Geneva; with Diego Badell
+- A mapping of stakeholders and recent developments in global AI governance
 
 ## CV
+Short bio below. A full PDF version of my CV is available upon request.
 
-A full PDF version is available upon request.
-
-### Professional experience
+#### Professional experience
 - Since November 2019: [predoctoral researcher at IBEI](https://www.ibei.org/en/lewin-schmitt_169391)
 - March 2018 - November 2019: Policy Analyst at the European Political Strategy Centre (EPSC), the European Commission’s in-house think tank
 - 2016-2017: Chief Copy Editor at [St Antony's International Review](https://www.stairjournal.com/)
@@ -35,10 +40,11 @@ A full PDF version is available upon request.
 
 
 #### Education
+- Since November 2019: PhD in Political and Social Sciences
 - 2017: MSc in Latin American Studies, University of Oxford
 - 2016: BSc in European Economic Studies, University of Bamberg
 - 2015: Exchange year at Troy University, USA
 
-### Extracurricular experience
+#### Extracurricular experience
 - Since March 2020: Member of the [Europaeum Scholars Programme](https://europaeum.org/europaeum-scholars-programme/)
 - 2010-2017: Held various leadership positions at international conferences of the [European Youth Parliament](https://eyp.org/)
