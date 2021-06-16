@@ -24,9 +24,10 @@ I am currently teaching a seminar on [Comparative Politics and Democratization](
 
 ## Work in progress
 
-- A text mining analysis of Twitter data to study the EU's external relations with selected countries
-- A quantitative study of the global governance literature: "The Study of Global Governance: An Analytic Portrait"; with Charles Roger, Jacint Jordana & Adam Holesch
-- A qualitative case study of the EU's approach towards debating Lethal Autonomous Weapons Systems (LAWS) at the UN CCW in Geneva; with Diego Badell
+- A text mining analysis of Twitter data to study the EU's external relations with selected countries (working paper available [here](https://github.com/lewinschmitt/lewinschmitt.github.io/raw/main/data/EU_Twitter_diplomacy-a_text-mining_analysis.pdf))
+- A quantitative study of the global governance literature: "The Study of Global Governance: An Analytic Portrait"; co-authored with Charles Roger, Jacint Jordana & Adam Holesch
+- A large-scale survey of international organizations' staff on their views about future global governance challenges; via the GLOBE project
+- A qualitative case study of the EU's approach towards debating Lethal Autonomous Weapons Systems (LAWS) at the UN CCW in Geneva; co-authored with Diego Badell
 - A mapping of stakeholders and recent developments in global AI governance
 
 ## CV
