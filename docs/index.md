@@ -32,14 +32,14 @@ I am currently teaching a seminar on [Comparative Politics and Democratization](
 Short bio below. A full PDF version of my CV is available upon request.
 
 #### Professional experience
-- Since November 2019: [predoctoral researcher at IBEI](https://www.ibei.org/en/lewin-schmitt_169391)
+- Since November 2019: predoctoral researcher at [Institut Barcelona d'Estudis Internacionals](https://www.ibei.org/en/lewin-schmitt_169391) (IBEI), Barcelona
 - March 2018 - November 2019: Policy Analyst at the European Political Strategy Centre (EPSC), the European Commission’s in-house think tank
 - 2016-2017: Chief Copy Editor at [St Antony's International Review](https://www.stairjournal.com/)
 - 2015-2016: Internship at the German Institute for Economic Research ([DIW Berlin](https://www.diw.de/en))
 
 
 #### Education
-- Since November 2019: PhD in Political and Social Sciences
+- Since November 2019: PhD in Political and Social Sciences, Pompeu Fabra University, Barcelona
 - 2017: MSc in Latin American Studies, University of Oxford
 - 2016: BSc in European Economic Studies, University of Bamberg
 - 2015: Exchange year at Troy University, USA
