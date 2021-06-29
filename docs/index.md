@@ -8,10 +8,10 @@ You can follow me on [Twitter](https://twitter.com/lewinontheedge) or [LinkedIn]
 
 ## Publications
 
-I just started my PhD journey, so my [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ&hl=de) profile is still pretty bleak. Below, you will find some selected publications of the past months.
+I just started my PhD journey, so my [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ) profile is still pretty bleak. Below, you will find some selected publications of the past months.
 
-- Schmitt, Lewin. 2021 (forthcoming). "What’s in a tweet? Twitter’s impact on public opinion and foreign affairs". Documents CIDOB
-- Schmitt, Lewin. 2020. Global AI governance and the Brussels effect. GLOBE Blog: https://www.globe-project.eu/en/global-ai-governance-and-the-brussels-effect_10536
+- Schmitt, Lewin. 2021. [What’s in a tweet? Twitter’s impact on public opinion and foreign affairs](https://www.cidob.org/en/publications/publication_series/documents_cidob/what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs). Documents CIDOB.
+- Schmitt, Lewin. 2020. [Global AI governance and the Brussels effect](https://www.globe-project.eu/en/global-ai-governance-and-the-brussels-effect_10536). GLOBE Blog. 
 - Jordana, Jacint; Lewin Schmitt; Adam Holesch. 2020. [Understanding Global Governance: the Contribution of Data Sets](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5cabc72eb&appId=PPGMS). European Policy Brief.
 - Borges de Castro, Ricardo; Lewin Schmitt. 2020. [COVID-19: Time to Put Strategic Foresight at the Heart of Leadership](https://www.globe-project.eu/en/covid-19-time-to-put-strategic-foresight-at-the-heart-of-leadership_10031). GLOBE Blog.
 - Lewin Schmitt. 2019. [Rethinking Strategic Autonomy in the Digital Age](https://op.europa.eu/en/publication-detail/-/publication/889dd7b7-0cde-11ea-8c1f-01aa75ed71a1/language-en/format-PDF). EPSC Strategic Notes, Issue 30.
