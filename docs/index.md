@@ -4,7 +4,7 @@ My research interests lie at the intersection of global governance and AI ethics
 
 From a methodological point of view, I am curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques.
 
-You can follow me on [Twitter](https://twitter.com/lewinontheedge) or [LinkedIn](https://www.linkedin.com/in/lewin-schmitt/). You can also reach out via [email](mailto:lewin.schmitt@upf.edu). If I don't respond to an inquiry immediately, I'm likely playing volleyball at the beach.
+You can follow me on [Twitter](https://twitter.com/lewinontheedge){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lewin-schmitt/). You can also reach out via [email](mailto:lewin.schmitt@upf.edu). If I don't respond to an inquiry immediately, I'm likely playing volleyball at the beach.
 
 ## Publications
 
