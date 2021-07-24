@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+layout: default
 markdown: kramdown
 title: lewinschmitt.github.io
 description: Welcome to my website
