@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
+title: My own website
+description: This is my own website
 show_downloads: "true"
