@@ -1,6 +1,3 @@
----
----
-
 I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. I am also a predoctoral research fellow at the [Institut Barcelona d'Estudis Internacionals](http://ibei.org/){:target="_blank"} (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/){:target="_blank"}, an exciting Horizon 2020 project on "Global Governance and the European Union: Future Trends and Scenarios".
 
 My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy. My PhD supervisor is [Jacint Jordana](https://scholar.google.com/citations?user=IQLfIgMAAAAJ&hl=en){:target="_blank"}.
