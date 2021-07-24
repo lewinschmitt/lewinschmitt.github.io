@@ -11,10 +11,12 @@ You can follow me on [Twitter](https://twitter.com/lewinontheedge){:target="_bla
 I just started my PhD journey, so my [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} profile is still pretty bleak. Below, you will find some selected publications of the past months.
 
 - Schmitt, Lewin. 2021. [What’s in a tweet? Twitter’s impact on public opinion and foreign affairs](https://www.cidob.org/en/publications/publication_series/documents_cidob/what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs){:target="_blank"}. Documents CIDOB. https://doi.org/10.24241/docCIDOB.2021.11
-- Schmitt, Lewin. 2020. [Global AI governance and the Brussels effect](https://www.globe-project.eu/en/global-ai-governance-and-the-brussels-effect_10536){:target="_blank"}. GLOBE Blog. 
+- Schmitt, Lewin. 2020. [Global AI governance and the Brussels effect](https://www.globe-project.eu/en/global-ai-governance-and-the-brussels-effect_10536){:target="_blank"}. GLOBE Blog.
 - Jordana, Jacint; Lewin Schmitt; Adam Holesch. 2020. [Understanding Global Governance: the Contribution of Data Sets](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5cabc72eb&appId=PPGMS){:target="_blank"}. European Policy Brief.
 - Borges de Castro, Ricardo; Lewin Schmitt. 2020. [COVID-19: Time to Put Strategic Foresight at the Heart of Leadership](https://www.globe-project.eu/en/covid-19-time-to-put-strategic-foresight-at-the-heart-of-leadership_10031){:target="_blank"}. GLOBE Blog.
 - Lewin Schmitt. 2019. [Rethinking Strategic Autonomy in the Digital Age](https://op.europa.eu/en/publication-detail/-/publication/889dd7b7-0cde-11ea-8c1f-01aa75ed71a1/language-en/format-PDF){:target="_blank"}. EPSC Strategic Notes, Issue 30.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wnph75fbtFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Teaching
 
