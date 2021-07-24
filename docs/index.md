@@ -16,9 +16,7 @@ I just started my PhD journey, so my [Google Scholars](https://scholar.google.co
 - Borges de Castro, Ricardo; Lewin Schmitt. 2020. [COVID-19: Time to Put Strategic Foresight at the Heart of Leadership](https://www.globe-project.eu/en/covid-19-time-to-put-strategic-foresight-at-the-heart-of-leadership_10031){:target="_blank"}. GLOBE Blog.
 - Lewin Schmitt. 2019. [Rethinking Strategic Autonomy in the Digital Age](https://op.europa.eu/en/publication-detail/-/publication/889dd7b7-0cde-11ea-8c1f-01aa75ed71a1/language-en/format-PDF){:target="_blank"}. EPSC Strategic Notes, Issue 30.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wnph75fbtFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Teaching and so on
+## Teaching
 
 I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Masters programmes at IBEI.
 
@@ -49,3 +47,13 @@ Short bio below. A full PDF version of my CV is available upon request.
 #### Extracurricular experience
 - Since March 2020: Member of the [Europaeum Scholars Programme](https://europaeum.org/europaeum-scholars-programme/){:target="_blank"}
 - 2010-2017: Held various leadership positions at international conferences of the [European Youth Parliament](https://eyp.org/){:target="_blank"}
+
+## Multimedia
+
+A brief video summary of a recent research project of mine:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wnph75fbtFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Participation in a [panel debate at CIDOB](https://www.cidob.org/en/events/thematic_lines_of_research/cidob/dialogos_cidob_fundacion_banco_sabadell) on the impact of social media on diplomacy and foreign affairs (in Spanish):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn84bjmicks?start=1313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
