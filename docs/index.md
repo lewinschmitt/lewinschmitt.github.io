@@ -18,7 +18,7 @@ I just started my PhD journey, so my [Google Scholars](https://scholar.google.co
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wnph75fbtFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Teaching
+## Teaching and so on
 
 I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Masters programmes at IBEI.
 
