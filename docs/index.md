@@ -50,7 +50,7 @@ Short bio below. A full PDF version of my CV is available upon request.
 
 ## Multimedia
 
-A brief video summary of a recent research project of mine:
+A brief video summary of a recent research project:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wnph75fbtFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
