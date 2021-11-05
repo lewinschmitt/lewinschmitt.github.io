@@ -1,5 +1,5 @@
 # theme: jekyll-theme-cayman
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
 layout: default
 markdown: kramdown
 title: lewinschmitt.github.io
