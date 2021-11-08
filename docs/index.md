@@ -9,7 +9,7 @@ header:
     - label: "These are some of my publications"
       url: "https://www.ibei.org/en/lewin-schmitt_169391"
     - label: "and here is my CV."
-      url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
+      url: "#cv"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
 excerpt: "I am a PhD candidate in political science and international relations at Pompeu Fabra University. My research interests is on **global AI governance**, with a special focus on EU foreign policy."
 
