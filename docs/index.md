@@ -12,20 +12,18 @@ header:
       url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
 excerpt: "I am a PhD candidate in political science and international relations at My research interests is on global AI governance, with a special focus on EU foreign policy."
-intro:
-  - excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President von der Leyen at the European Parliament, 17 June 2020`'
-  - excerpt: 'Progress has been made to include more women in middle and senior management and to improve access for people with disabilities. Yet, the inclusion of historically underrepresented groups of people remains inadequate.'
+
 feature_row:
   - image_path: /assets/img/profile.jpg
     alt: "placeholder image 1"
-    title: "Why the Commission?"
-    excerpt: "The European Commission is one of the most central bodies in EU politics, boasting a workforce of over 32,000 civil servants. However, it suffers from a diversity gap when it comes to the representativeness of its staff across many key dimensions."
+    title: "What I study?"
+    excerpt: "My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy. My PhD supervisor is Jacint Jordana."
   - image_path: /assets/img/john-schaidler-9V3Q2W_mRLE-unsplash.jpg
     alt: "placeholder image 2"
-    title: "Why diversity matters"
-    excerpt: "In terms of justice, a political organisation should strive for optimum representativeness in its workforce. Inclusiveness is indispensable for social justice as it improves citizens’ access to institutions regardless of their background and enhances the Commission’s representativeness of the overall EU population."
+    title: "How I do it"
+    excerpt: "I'm generally a mixed methods researcher. From a methodological point of view, I am curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques."
   - image_path: /assets/img/profilepic.jpg
-    title: "More inclusive, better policies"
+    title: "And some more"
     excerpt: "The exclusion of valuable experiences and perspectives in the policy-making process may result in outcomes that fail to reflect their concerns and issues."
     url: "/proposals/"
     btn_label: "Read More"
