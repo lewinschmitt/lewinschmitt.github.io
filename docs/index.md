@@ -15,19 +15,21 @@ excerpt: "I am a PhD candidate in political science and international relations 
 
 feature_row:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
-    alt: "placeholder image 1"
-    title: "What I study?"
-    excerpt: "My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy. My PhD supervisor is Jacint Jordana."
+    alt: "An abstract illustration of the world and digital overlays"
+    title: "What I study"
+    excerpt: "My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy.
+    My PhD supervisor is Jacint Jordana."
     url: "#publications"
     btn_label: "Publications"
     btn_class: "btn--primary"
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/code.jpg
-    alt: "placeholder image 2"
+    alt: "A picture of code"
     title: "How I do it"
     excerpt: "I'm generally a mixed methods researcher. From a methodological point of view, I am curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques."
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/profilepic.jpg
-    title: "And some more"
-    excerpt: "The exclusion of valuable experiences and perspectives in the policy-making process may result in outcomes that fail to reflect their concerns and issues."
+    alt: "A picture of myself"
+    title: "What else I do"
+    excerpt: "I am also a predoctoral research fellow at the Institut Barcelona d’Estudis Internacionals (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on “Global Governance and the European Union: Future Trends and Scenarios”."
     url: "/proposals/"
     btn_label: "Read More"
     btn_class: "btn--primary"
