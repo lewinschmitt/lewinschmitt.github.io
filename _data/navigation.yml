@@ -1,0 +1,27 @@
+# main links
+main:
+  - title: "Our proposals"
+    url: /proposals/
+  - title: "Team"
+    url: /team/
+  - title: "About"
+    url: /about/
+
+
+# Sidebar
+sidebar:
+  - title: "About"
+    image: "/assets/img/europaeum_logo.jpg"
+    image_alt: "image"
+    text: "This is a [Europaeum](https://europaeum.org/programmes/scholars-programme/) project. 2021. Yeah."
+    children:
+    - title: "Another Title"
+      text: "More text here."
+    - title: "Eeeeven more titles"
+      text: "more text...."
+  - title: "Links"
+    childen:
+    - title: "Link 1"
+      url: /docs/installation/
+    - title: "Link 2"
+      url: /docs/installation/
