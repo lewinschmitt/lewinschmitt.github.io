@@ -11,7 +11,7 @@ header:
     - label: "and here is my CV."
       url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
-excerpt: "I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. My research interests is on global AI governance, with a special focus on EU foreign policy."
+excerpt: "I am a PhD candidate in political science and international relations at My research interests is on global AI governance, with a special focus on EU foreign policy."
 intro:
   - excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President von der Leyen at the European Parliament, 17 June 2020`'
   - excerpt: 'Progress has been made to include more women in middle and senior management and to improve access for people with disabilities. Yet, the inclusion of historically underrepresented groups of people remains inadequate.'
