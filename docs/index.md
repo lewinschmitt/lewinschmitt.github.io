@@ -3,7 +3,7 @@ title: "Hi, I'm Lewin."
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.7"
   overlay_image: "https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/cover.jpg"
   actions:
     - label: "These are some of my publications"
@@ -14,11 +14,11 @@ header:
 excerpt: "I am a PhD candidate in political science and international relations at My research interests is on global AI governance, with a special focus on EU foreign policy."
 
 feature_row:
-  - image_path: /assets/img/profile.jpg
+  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
     alt: "placeholder image 1"
     title: "What I study?"
     excerpt: "My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy. My PhD supervisor is Jacint Jordana."
-  - image_path: /assets/img/john-schaidler-9V3Q2W_mRLE-unsplash.jpg
+  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/code.jpg
     alt: "placeholder image 2"
     title: "How I do it"
     excerpt: "I'm generally a mixed methods researcher. From a methodological point of view, I am curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques."
