@@ -16,7 +16,7 @@ intro:
   - excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President von der Leyen at the European Parliament, 17 June 2020`'
   - excerpt: 'Progress has been made to include more women in middle and senior management and to improve access for people with disabilities. Yet, the inclusion of historically underrepresented groups of people remains inadequate.'
 feature_row:
-  - image_path: /assets/img/ernesto-velazquez-0Uyvgcnl83g-unsplash.jpg
+  - image_path: /assets/img/profile.jpg
     alt: "placeholder image 1"
     title: "Why the Commission?"
     excerpt: "The European Commission is one of the most central bodies in EU politics, boasting a workforce of over 32,000 civil servants. However, it suffers from a diversity gap when it comes to the representativeness of its staff across many key dimensions."
@@ -24,7 +24,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Why diversity matters"
     excerpt: "In terms of justice, a political organisation should strive for optimum representativeness in its workforce. Inclusiveness is indispensable for social justice as it improves citizens’ access to institutions regardless of their background and enhances the Commission’s representativeness of the overall EU population."
-  - image_path: /assets/img/flags-sd.jpg
+  - image_path: /assets/img/profilepic.jpg
     title: "More inclusive, better policies"
     excerpt: "The exclusion of valuable experiences and perspectives in the policy-making process may result in outcomes that fail to reflect their concerns and issues."
     url: "/proposals/"
@@ -53,6 +53,8 @@ feature_row4:
     btn_label: "Our proposals for affirmative action"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
 
 I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. I am also a predoctoral research fellow at the [Institut Barcelona d'Estudis Internacionals](http://ibei.org/){:target="_blank"} (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/){:target="_blank"}, an exciting Horizon 2020 project on "Global Governance and the European Union: Future Trends and Scenarios".
 
