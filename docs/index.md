@@ -3,7 +3,7 @@ title: "Hi, I'm Lewin."
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
+  overlay_filter: "0.6"
   overlay_image: "https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/barcelona.jpg"
   actions:
     - label: "These are some of my publications"
@@ -61,7 +61,7 @@ I am a PhD candidate in political science and international relations at [Pompeu
 
 ## Publications
 
-Below, you will find some selected publications. If interested, you can also find me on [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt){:target=_"blank"}. 
+Below, you will find some selected publications. If interested, you can also find me on [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt){:target=_"blank"}.
 
 - Schmitt, Lewin. 2021. [Mapping global AI governance: a nascent regime in a fragmented landscape](https://doi.org/10.1007/s43681-021-00083-y). AI Ethics. https://doi.org/10.1007/s43681-021-00083-y
 - Schmitt, Lewin. 2021. [What’s in a tweet? Twitter’s impact on public opinion and foreign affairs](https://www.cidob.org/en/publications/publication_series/documents_cidob/what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs){:target="_blank"}. Documents CIDOB. https://doi.org/10.24241/docCIDOB.2021.11
