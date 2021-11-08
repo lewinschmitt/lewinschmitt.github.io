@@ -6,12 +6,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: https://github.com/lewinschmitt/lewinschmitt.github.io/blob/main/assets/img/cover.jpg
   actions:
-    - label: "I'm a Pre-Doctoral Fellow at IBEI"
+    - label: "These are some of my publications"
       url: "https://www.ibei.org/en/lewin-schmitt_169391"
-    - label: "and a PhD candidate at Pompeu Fabra University."
+    - label: "and here is my CV."
       url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
-excerpt: "My research interests is on global governance of Artificial Intelligence (AI), with a special focus on EU foreign policy."
+excerpt: "I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. My research interests is on global AI governance, with a special focus on EU foreign policy."
 intro:
   - excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President von der Leyen at the European Parliament, 17 June 2020`'
   - excerpt: 'Progress has been made to include more women in middle and senior management and to improve access for people with disabilities. Yet, the inclusion of historically underrepresented groups of people remains inadequate.'
