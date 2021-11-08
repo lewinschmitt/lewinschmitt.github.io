@@ -18,7 +18,7 @@ feature_row:
     alt: "An abstract illustration of the world and digital overlays"
     title: "What I study"
     excerpt: "My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy.
-    My PhD supervisor is [Jacint Jordana](https://scholar.google.com/citations?user=IQLfIgMAAAAJ&hl=en){:target="_blank"}."
+    My PhD supervisor is [Jacint Jordana](https://scholar.google.com/citations?user=IQLfIgMAAAAJ&hl=en)."
     url: "#publications"
     btn_label: "Publications"
     btn_class: "btn--primary"
