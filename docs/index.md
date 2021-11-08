@@ -1,17 +1,17 @@
 ---
-title: "InclusivEU - Advancing diversity in the European Commission’s workforce"
+title: "Hi, I'm Lewin."
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/flag.jpg
+  overlay_image: /assets/img/cover.jpg
   actions:
-    - label: "Download the executive summary"
-      url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyBrief.pdf"
-    - label: "Download the full policy paper"
+    - label: "I'm a Pre-Doctoral Fellow at IBEI"
+      url: "https://www.ibei.org/en/lewin-schmitt_169391"
+    - label: "and a PhD candidate at Pompeu Fabra University."
       url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
-  caption: "Photos via [**Unsplash**](https://unsplash.com) and [**Pulse of Europe**](https://www.kickstarter.com/projects/pulseofeurope/european-rainbow-flag)"
-excerpt: "How can the European Commission improve the diversity of its workforce? This project identified shortcomings in the hiring process and proposes several actions to include underrepresented groups."
+  caption: "Photos via [**Unsplash**](https://unsplash.com)"
+excerpt: "My research interests is on global governance of Artificial Intelligence (AI), with a special focus on EU foreign policy."
 intro:
   - excerpt: '_"What can we do so that our institutions better represent the diversity of our European societies?"_ `Commission President von der Leyen at the European Parliament, 17 June 2020`'
   - excerpt: 'Progress has been made to include more women in middle and senior management and to improve access for people with disabilities. Yet, the inclusion of historically underrepresented groups of people remains inadequate.'
