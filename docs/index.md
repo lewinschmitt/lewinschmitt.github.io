@@ -7,7 +7,7 @@ header:
   overlay_image: "https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/cover.jpg"
   actions:
     - label: "These are some of my publications"
-      url: "https://www.ibei.org/en/lewin-schmitt_169391"
+      url: "#publications"
     - label: "and here is my CV."
       url: "#cv"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
@@ -18,14 +18,14 @@ feature_row:
     alt: "An abstract illustration of the world and digital overlays"
     title: "What I study"
     excerpt: "My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy.
-    My PhD supervisor is Jacint Jordana."
+    My PhD supervisor is [Jacint Jordana](https://scholar.google.com/citations?user=IQLfIgMAAAAJ&hl=en){:target="_blank"}."
     url: "#publications"
     btn_label: "Publications"
     btn_class: "btn--primary"
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/code.jpg
     alt: "A picture of code"
     title: "How I do it"
-    excerpt: "I'm generally a mixed methods researcher. From a methodological point of view, I am curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques."
+    excerpt: "Mixed methods researcher here. From a methodological point of view, I'm curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques."
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/profilepic.jpg
     alt: "A picture of myself"
     title: "What else I do"
@@ -57,17 +57,11 @@ feature_row4:
 
 {% include feature_row %}
 
-I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. I am also a predoctoral research fellow at the [Institut Barcelona d'Estudis Internacionals](http://ibei.org/){:target="_blank"} (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/){:target="_blank"}, an exciting Horizon 2020 project on "Global Governance and the European Union: Future Trends and Scenarios".
-
-My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy. My PhD supervisor is [Jacint Jordana](https://scholar.google.com/citations?user=IQLfIgMAAAAJ&hl=en){:target="_blank"}.
-
-From a methodological point of view, I am curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques.
-
-You can follow me on [Twitter](https://twitter.com/lewinontheedge){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lewin-schmitt/){:target="_blank"}. You can also reach out via [email](mailto:lewin.schmitt@upf.edu). If I don't respond to an inquiry immediately, I'm likely playing volleyball at the beach.
+I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. You can follow me on [Twitter](https://twitter.com/lewinontheedge){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lewin-schmitt/){:target="_blank"}. You can also reach out via [email](mailto:lewin.schmitt@upf.edu). If I don't respond to an inquiry immediately, I'm likely playing volleyball at the beach.
 
 ## Publications
 
-I just started my PhD journey, so my [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} profile is still pretty bleak. Below, you will find some selected publications of the past months.
+I just started my PhD journey, so my [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} profile is still pretty bleak. Below, you will find some selected publications.
 
 - Schmitt, Lewin. 2021. [Mapping global AI governance: a nascent regime in a fragmented landscape](https://doi.org/10.1007/s43681-021-00083-y). AI Ethics. https://doi.org/10.1007/s43681-021-00083-y
 - Schmitt, Lewin. 2021. [What’s in a tweet? Twitter’s impact on public opinion and foreign affairs](https://www.cidob.org/en/publications/publication_series/documents_cidob/what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs){:target="_blank"}. Documents CIDOB. https://doi.org/10.24241/docCIDOB.2021.11
