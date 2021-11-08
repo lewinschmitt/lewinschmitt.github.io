@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: https://github.com/lewinschmitt/lewinschmitt.github.io/blob/main/assets/img/cover.jpg
+  overlay_image: "https://github.com/lewinschmitt/lewinschmitt.github.io/blob/main/assets/img/cover.jpg"
   actions:
     - label: "These are some of my publications"
       url: "https://www.ibei.org/en/lewin-schmitt_169391"
