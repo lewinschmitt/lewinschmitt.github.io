@@ -7,4 +7,4 @@ title: lewinschmitt.github.io
 description: Welcome to my website
 show_downloads: "true"
 plugins:
-  - jekyll-include-cach
+  - jekyll-include-cache
