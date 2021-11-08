@@ -11,13 +11,16 @@ header:
     - label: "and here is my CV."
       url: "https://lewinschmitt.github.io/inclusivEU/assets/files/InclusivEU_PolicyPaper.pdf"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
-excerpt: "I am a PhD candidate in political science and international relations at My research interests is on global AI governance, with a special focus on EU foreign policy."
+excerpt: "I am a PhD candidate in political science and international relations at Pompeu Fabra University. My research interests is on **global AI governance**, with a special focus on EU foreign policy."
 
 feature_row:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
     alt: "placeholder image 1"
     title: "What I study?"
     excerpt: "My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy. My PhD supervisor is Jacint Jordana."
+    url: "#publications"
+    btn_label: "Publications"
+    btn_class: "btn--primary"
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/code.jpg
     alt: "placeholder image 2"
     title: "How I do it"
@@ -28,6 +31,7 @@ feature_row:
     url: "/proposals/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row2:
   - image_path: /assets/img/vonderleyen.jpg
     alt: "placeholder image 2"
