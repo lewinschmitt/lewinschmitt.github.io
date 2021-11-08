@@ -29,10 +29,7 @@ feature_row:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/profilepic.jpg
     alt: "A picture of myself"
     title: "What else I do"
-    excerpt: "I am also a predoctoral research fellow at the Institut Barcelona d’Estudis Internacionals (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on “Global Governance and the European Union: Future Trends and Scenarios”."
-    url: "/proposals/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    excerpt: "I am also a predoctoral research fellow at the [Institut Barcelona d’Estudis Internacionals](https://www.ibei.org/en) (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on “Global Governance and the European Union: Future Trends and Scenarios”."
 
 feature_row2:
   - image_path: /assets/img/vonderleyen.jpg
