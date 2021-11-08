@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "https://github.com/lewinschmitt/lewinschmitt.github.io/blob/main/assets/img/cover.jpg"
+  overlay_image: "https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/cover.jpg"
   actions:
     - label: "These are some of my publications"
       url: "https://www.ibei.org/en/lewin-schmitt_169391"
@@ -22,7 +22,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "How I do it"
     excerpt: "I'm generally a mixed methods researcher. From a methodological point of view, I am curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques."
-  - image_path: /assets/img/profilepic.jpg
+  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/profilepic.jpg
     title: "And some more"
     excerpt: "The exclusion of valuable experiences and perspectives in the policy-making process may result in outcomes that fail to reflect their concerns and issues."
     url: "/proposals/"
