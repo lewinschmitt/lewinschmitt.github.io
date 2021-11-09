@@ -35,7 +35,7 @@ feature_row2:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
     alt: ""
     title: "From promises to actions"
-    excerpt: "Below, you will find some selected publications. If interested, you can also find me on [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt){:target=_"blank"}."
+    excerpt: "Below, you will find some selected publications. If interested, you can also find me on [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt)."
 
 feature_row3:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
