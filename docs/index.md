@@ -32,9 +32,9 @@ feature_row:
     excerpt: "I am also a predoctoral research fellow at the [Institut Barcelona d’Estudis Internacionals](https://www.ibei.org/en) (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on “Global Governance and the European Union: Future Trends and Scenarios”."
 
 feature_row2:
-  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
+  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernanc.jpg
     alt: ""
-    title: "From promises to actions"
+    title: ""
     excerpt: "Below, you will find some selected publications. If interested, you can also find me on [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt)."
 
 feature_row3:
