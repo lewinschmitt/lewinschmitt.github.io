@@ -32,12 +32,12 @@ feature_row:
     excerpt: "I am also a predoctoral research fellow at the [Institut Barcelona d’Estudis Internacionals](https://www.ibei.org/en) (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on “Global Governance and the European Union: Future Trends and Scenarios”."
 
 feature_row2:
-  - image_path:
+  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernanc.jpg
     alt: ""
     title: "From promises to actions"
     excerpt: "While the Commission has acknowledged the problem, solutions are too slow and marginal. Furthermore, they often lack an intersectional approach."
     url: "/proposals/"
-  - image path:
+  - image path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
     alt: ""
     title: "Teaching"
     excerpt: "I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Masters programmes at IBEI."
