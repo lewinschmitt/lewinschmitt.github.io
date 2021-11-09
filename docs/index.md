@@ -36,6 +36,10 @@ feature_row2:
     alt: ""
     title: ""
     excerpt: "Below, you will find some selected publications. If interested, you can also find me on [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt)."
+  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernanc.jpg
+    alt: ""
+    title: ""
+    excerpt: "Below, you will find some selected publications. If interested, you can also find me on [Google Scholars](https://scholar.google.com/citations?user=GyhxqV0AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt)."
 
 feature_row3:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
