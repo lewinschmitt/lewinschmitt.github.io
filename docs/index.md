@@ -2,6 +2,8 @@
 title: "Hi, I'm Lewin."
 layout: splash
 toc: true
+toc_label: "On this page"
+toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
