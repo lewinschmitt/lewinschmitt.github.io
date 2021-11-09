@@ -34,18 +34,6 @@ feature_row:
     title: "What else I do"
     excerpt: "I am also a predoctoral research fellow at the [Institut Barcelona d’Estudis Internacionals](https://www.ibei.org/en) (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on “Global Governance and the European Union: Future Trends and Scenarios”."
 
-feature_row2:
-  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernanc.jpg
-    alt: ""
-    title: ""
-    excerpt: ""
-
-feature_row3:
-  - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
-    alt: ""
-    title: "Teaching"
-    excerpt: ""
-
 ---
 
 {% include feature_row %}

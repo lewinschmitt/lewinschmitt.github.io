@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Our proposals"
-    url: /proposals/
-  - title: "Team"
-    url: /team/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: "#"
+  - title: "Publications"
+    url: ""#publications"
+  - title: "CV"
+    url: "cv"
 
 
 # Sidebar
