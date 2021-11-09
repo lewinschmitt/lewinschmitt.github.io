@@ -60,7 +60,7 @@ I am a PhD candidate in political science and international relations at [Pompeu
 - Schmitt, L. 2019. [Rethinking Strategic Autonomy in the Digital Age](https://op.europa.eu/en/publication-detail/-/publication/889dd7b7-0cde-11ea-8c1f-01aa75ed71a1/language-en/format-PDF){:target="_blank"}. EPSC Strategic Notes, Issue 30.
 
 
-## teaching
+## Teaching
 
 {% include feature_row id="feature_row2" type="right" %}
 
