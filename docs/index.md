@@ -47,7 +47,7 @@ feature_row2:
 
 I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. You can follow me on [Twitter](https://twitter.com/lewinontheedge){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lewin-schmitt/){:target="_blank"}. You can also reach out via [email](mailto:lewin.schmitt@upf.edu). If I don't respond to an inquiry immediately, I'm likely playing volleyball at the beach.
 
-{% include feature_row2 %}
+{% include feature_row id="feature_row2" type="left" %}
 
 ## Publications
 
