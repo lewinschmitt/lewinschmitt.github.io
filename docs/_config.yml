@@ -8,3 +8,17 @@ description: Welcome to my website
 show_downloads: "true"
 plugins:
   - jekyll-include-cache
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lewinontheedge"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lewinschmitt/"
+    - label: "Pompeu Fabra University"
+      icon: "fab fa-fw fa-bank"
+      url: "https://www.upf.edu/"
+    - label: "Institut Barcelona d'Estudis Internacionals"
+      icon: "fab fa-fw fa-building"
+      url: "https://www.ibei.org/en"
