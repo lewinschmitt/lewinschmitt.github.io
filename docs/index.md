@@ -39,8 +39,8 @@ feature_row2:
     url: "/proposals/"
   - image path:
     alt: ""
-    title: Teaching
-    excerpt: I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Masters programmes at IBEI.
+    title: "Teaching"
+    excerpt: "I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Masters programmes at IBEI."
 
 ---
 
