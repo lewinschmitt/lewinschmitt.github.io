@@ -39,7 +39,7 @@ feature_row2:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
     alt: ""
     title: "Teaching"
-    excerpt: "I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Masters programmes at IBEI."
+    excerpt: "I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324) for the Masters programmes at IBEI."
 
 ---
 
