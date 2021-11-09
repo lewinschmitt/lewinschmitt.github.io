@@ -35,8 +35,7 @@ feature_row2:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernanc.jpg
     alt: ""
     title: "From promises to actions"
-    excerpt: "While the Commission has acknowledged the problem, solutions are too slow and marginal. Furthermore, they often lack an intersectional approach."
-    url: "/proposals/"
+    excerpt: "While the Commission has acknowledged the problem, solutions are too slow and marginal. Furthermore, they often lack an intersectional approach.
   - image path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
     alt: ""
     title: "Teaching"
