@@ -17,7 +17,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lewinschmitt/"
     - label: "Pompeu Fabra University"
-      icon: "fab2 fa-fw fa-bank"
+      icon: "fab2 fa-solid fa-bank"
       url: "https://www.upf.edu/"
     - label: "Institut Barcelona d'Estudis Internacionals"
       icon: "fab2 fa-solid fa-building"
