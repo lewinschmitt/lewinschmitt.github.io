@@ -1,51 +1,10 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-
-/* For three-column layout */
-article .begin-examples ~ h2,
-article .begin-examples ~ h2 + p {
-    width: 100%;
-    clear: both;
-}
-
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .highlight {
-    width: 50%;
-}
-
-.end-examples {
-    clear: both;
-}
-
-article .end-examples ~ p,
-article .end-examples ~ h3,
-article .end-examples ~ .highlight {
-    width: auto;
-    float: none;
-    clear: none;
-}
-
-/* Style For Small Screens */
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .highlight {
-    width: 100%;
-    float: none;
-    clear: none;
-}
-
-p {
-  color: blue;
-}
-
-.fab2 {
-  font-family: "Font Awesome 5 Free";
-}
+@charset "utf-8";
 
 $link-color: red;
 
-/* important: imports all the theme main.scss files */
-@import"{{ site.theme }}";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
