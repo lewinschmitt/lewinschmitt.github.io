@@ -94,4 +94,4 @@ June 2021: Participation in a [panel debate at CIDOB](https://www.cidob.org/en/e
 November 2021: Speaker at an online panel by the Delegation of the Catalan Government to the EU and the Centre for Contemporary Studies (CETC):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_uLAMbfgGyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Two-column markdown (via css): https://mattbierner.github.io/markdown-two-column-documentation-example/
+<!-- Two-column markdown (via css): https://mattbierner.github.io/markdown-two-column-documentation-example/ -->
