@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: "test.com"
+    url: test.com
   - title: "Publications"
-    url: "google.de"
+    url: google.de
   - title: "CV"
-    url: "lewin.de"
+    url: lewin.de
