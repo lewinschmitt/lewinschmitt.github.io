@@ -44,6 +44,8 @@ p {
   font-family: "Font Awesome 5 Free";
 }
 
+$link-color: red;
+
 /* important: imports all the theme main.scss files */
 @import"{{ site.theme }}";
 @import "minimal-mistakes"; // main partials
