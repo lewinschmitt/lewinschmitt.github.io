@@ -85,10 +85,10 @@ Short bio below. A full PDF version of my CV is available upon request.
 
 ## Multimedia
 
-A brief video summary of a recent research project:
+| A brief video summary of a recent research project:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wnph75fbtFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wnph75fbtFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 
 Participation in a [panel debate at CIDOB](https://www.cidob.org/en/events/thematic_lines_of_research/cidob/dialogos_cidob_fundacion_banco_sabadell) on the impact of social media on diplomacy and foreign affairs (in Spanish):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn84bjmicks?start=1313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn84bjmicks?start=1313" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Test |
