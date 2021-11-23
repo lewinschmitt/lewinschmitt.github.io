@@ -8,3 +8,7 @@
 p {
   color: blue;
 }
+
+p .examples {
+  visibility: hidden;
+}

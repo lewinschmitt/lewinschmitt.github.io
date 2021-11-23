@@ -36,6 +36,11 @@ article .begin-examples ~ .highlight {
     clear: none;
 }
 
+
+p {
+  color: blue;
+}
+
 /* important: imports all the theme main.scss files */
 @import"{{ site.theme }}";
 @import "minimal-mistakes"; // main partials
