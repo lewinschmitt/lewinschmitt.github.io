@@ -1,6 +1,6 @@
 ---
 title: Playground: AI on AI policy
-layout: layout
+layout: default
 author_profile: true
 header:
   overlay_image: /assets/img/cover.jpg
