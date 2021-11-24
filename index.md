@@ -95,3 +95,29 @@ November 2021: Speaker at an online panel by the Delegation of the Catalan Gover
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_uLAMbfgGyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- Two-column markdown (via css): https://mattbierner.github.io/markdown-two-column-documentation-example/ -->
+
+
+<div class="begin-examples"></div>
+
+
+## Section title
+This text, along with the title, remains in a single colum
+
+### Main point you want to make here
+
+Some explanatory text.
+
+
+### Main point about code block 1
+
+```
+code block 1
+```
+
+More text explaining code block 2
+
+```
+code block 2
+```
+
+<div class="end-examples"></div>
