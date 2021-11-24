@@ -5,24 +5,48 @@
 @charset "utf-8";
 
 
+/* for additional Fontawesome Icons in the footer */
 
-/* For three-column layout */
+.fab2 {
+  font-family: "Font Awesome 5 Free";
+  font-style: normal;
+}
+
+
+/*----------------------------
+    Two column layout stuff
+  ---------------------------*/
+/* Main Section Headings and sub headings */
 article .begin-examples ~ h2,
 article .begin-examples ~ h2 + p {
     width: 100%;
     clear: both;
 }
 
+/* Columns */
 article .begin-examples ~ h3,
 article .begin-examples ~ p,
 article .begin-examples ~ .highlight {
     width: 50%;
 }
 
-.end-examples {
+/* Left Column */
+article .begin-examples ~ h3,
+article .begin-examples ~ p {
+    float: left;
+    box-sizing: border-box;
+    padding-right: 1rem;
     clear: both;
 }
 
+/* Right Column */
+article .begin-examples ~ .highlight {
+    float: right;
+    clear: right;
+    margin-bottom: 1rem;
+}
+
+/* Reset */
 article .end-examples ~ p,
 article .end-examples ~ h3,
 article .end-examples ~ .highlight {
@@ -31,7 +55,9 @@ article .end-examples ~ .highlight {
     clear: none;
 }
 
-/* Style For Small Screens */
+.end-examples {
+    clear: both;
+}
 
 @media print, screen and (max-width: 580px) {
 
@@ -46,12 +72,6 @@ article .begin-examples ~ .highlight {
     clear: none;
 }
 
-}
-
-
-.fab2 {
-  font-family: "Font Awesome 5 Free";
-  font-style: normal;
 }
 
 
