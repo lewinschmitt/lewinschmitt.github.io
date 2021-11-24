@@ -12,55 +12,54 @@
   font-style: normal;
 }
 
-/* to adapt YouTube embeds to two-column layout */
-
-.fluid-width-video-wrapper {
-}
-
 
 /*----------------------------
     Two column layout stuff
   ---------------------------*/
 /* Main Section Headings and sub headings */
-article .begin-examples ~ h2,
-article .begin-examples ~ h2 + p {
+article .begin-columns ~ h2,
+article .begin-columns ~ h2 + p {
     width: 100%;
     clear: both;
 }
 
 /* Columns */
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .language-plaintext>.highlight {
+article .begin-columns ~ h3,
+article .begin-columns ~ p,
+article .begin-columns ~ .language-plaintext>.highlight {
     width: 50%;
 }
 
 /* Left Column */
-article .begin-examples ~ h3,
-article .begin-examples ~ p {
+article .begin-columns ~ h3,
+article .begin-columns ~ p {
     float: left;
     box-sizing: border-box;
     padding-right: 1rem;
     clear: both;
 }
 
+article .begin-columns ~ .notice {
+  margin: 1em !important;
+}
+
 /* Right Column */
-article .begin-examples ~ .language-plaintext>.highlight {
+article .begin-columns ~ .language-plaintext>.highlight {
     float: right;
     clear: right;
     margin-bottom: 1rem;
 }
 
 /* Reset */
-article .end-examples ~ p,
-article .end-examples ~ h3,
-article .end-examples ~ .language-plaintext>.highlight {
+article .end-columns ~ p,
+article .end-columns ~ h3,
+article .end-columns ~ .language-plaintext>.highlight {
     width: auto;
     float: none;
     clear: none;
 }
 
-.end-examples {
+.end-columns {
     clear: both;
 }
 
@@ -69,9 +68,9 @@ article .end-examples ~ .language-plaintext>.highlight {
 /*----------------------------
     Two column layout media
   ---------------------------*/
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .language-plaintext .highlight {
+article .begin-columns ~ h3,
+article .begin-columns ~ p,
+article .begin-columns ~ .language-plaintext .highlight {
     width: 100%;
     float: none;
     clear: none;
