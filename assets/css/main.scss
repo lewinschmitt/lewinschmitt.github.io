@@ -94,5 +94,22 @@ article .begin-columns ~ .language-plaintext .highlight {
 }
 
 
+/*----------------------------
+    Three column layout stuff, courtesy of https://mattbierner.github.io/markdown-two-column-documentation-example/ (adapted)
+  ---------------------------*/
+/* Main Section Headings and sub headings */
+
+.three-columns .column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.three-columns.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
