@@ -26,13 +26,15 @@ article .begin-columns ~ h2 + p {
 /* Columns */
 article .begin-columns ~ h3,
 article .begin-columns ~ p,
+article .begin-columns ~ .column,
 article .begin-columns ~ .language-plaintext>.highlight {
     width: 50%;
 }
 
 /* Left Column */
 article .begin-columns ~ h3,
-article .begin-columns ~ p {
+article .begin-columns ~ p,
+article .begin-columns ~ .column {
     float: left;
     box-sizing: border-box;
     padding-right: 1rem;
@@ -53,7 +55,9 @@ article .begin-columns ~ .fluid-width-video-wrapper {
 
 
 /* Right Column */
-article .begin-columns ~ .language-plaintext>.highlight, article .begin-columns ~ .video-container-outer {
+article .begin-columns ~ .language-plaintext>.highlight,
+article .begin-columns ~ .video-container-outer,
+article .begin-columns ~ .column.column-right {
     float: right;
     clear: right;
     margin-bottom: 1rem;
@@ -62,6 +66,7 @@ article .begin-columns ~ .language-plaintext>.highlight, article .begin-columns 
 /* Reset */
 article .end-columns ~ p,
 article .end-columns ~ h3,
+article .begin-columns ~ .column,
 article .end-columns ~ .language-plaintext>.highlight {
     width: auto;
     float: none;
@@ -79,6 +84,7 @@ article .end-columns ~ .language-plaintext>.highlight {
   ---------------------------*/
 article .begin-columns ~ h3,
 article .begin-columns ~ p,
+article .begin-columns ~ .column,
 article .begin-columns ~ .language-plaintext .highlight {
     width: 100%;
     float: none;
