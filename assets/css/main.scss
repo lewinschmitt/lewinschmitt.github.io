@@ -107,6 +107,7 @@ article .begin-columns ~ .fluid-width-video-wrapper {
 .three-columns .column {
   float: left;
   width: 33.33%;
+  padding-right: 1em;
 }
 
 /* Clear floats after the columns */
@@ -121,6 +122,7 @@ article .begin-columns ~ .fluid-width-video-wrapper {
   .three-columns .column {
     float: left;
     width: 50%;
+    padding-right: 1em;
   }
 
   .three-columns.row:after {
