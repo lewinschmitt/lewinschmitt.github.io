@@ -33,7 +33,7 @@ article .begin-examples ~ h2 + p {
 /* Columns */
 article .begin-examples ~ h3,
 article .begin-examples ~ p,
-article .begin-examples ~ .language-plaintext .highlight {
+article .begin-examples ~ .language-plaintext>.highlight {
     width: 50%;
 }
 
@@ -47,7 +47,7 @@ article .begin-examples ~ p {
 }
 
 /* Right Column */
-article .begin-examples ~ .language-plaintext .highlight {
+article .begin-examples ~ .language-plaintext>.highlight {
     float: right;
     clear: right;
     margin-bottom: 1rem;
@@ -56,7 +56,7 @@ article .begin-examples ~ .language-plaintext .highlight {
 /* Reset */
 article .end-examples ~ p,
 article .end-examples ~ h3,
-article .end-examples ~ .language-plaintext .highlight {
+article .end-examples ~ .language-plaintext>.highlight {
     width: auto;
     float: none;
     clear: none;
