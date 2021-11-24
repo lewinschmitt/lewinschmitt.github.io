@@ -135,12 +135,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lewinschmitt/"
-    - label: "Pompeu Fabra University"
-      icon: "fab2 fa-solid fa-bank"
-      url: "https://www.upf.edu/"
     - label: "Institut Barcelona d'Estudis Internacionals"
       icon: "fab2 fa-solid fa-building"
       url: "https://www.ibei.org/en"
+    - label: "Pompeu Fabra University"
+      icon: "fab2 fa-solid fa-building"
+      url: "https://www.upf.edu/"
 
 
 # Reading Files
