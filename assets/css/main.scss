@@ -43,9 +43,14 @@ article .begin-columns ~ .notice {
   margin: 1em !important;
 }
 
+article .begin-columns ~ .video-container-outer {
+  position: relative;
+}
+
 article .begin-columns ~ .fluid-width-video-wrapper {
   padding-top: 60% !important;
 }
+
 
 /* Right Column */
 article .begin-columns ~ .language-plaintext>.highlight {
