@@ -1,7 +1,7 @@
 ---
 permalink: /playground/
 layout: single
-title: Playground: AI on AI policy
+title: "Playground: AI on AI policy"
 author_profile: true
 header:
   overlay_image: /assets/img/cover.jpg
