@@ -94,30 +94,18 @@ June 2021: Participation in a [panel debate at CIDOB](https://www.cidob.org/en/e
 November 2021: Speaker at an online panel by the Delegation of the Catalan Government to the EU and the Centre for Contemporary Studies (CETC):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_uLAMbfgGyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- Two-column markdown (via css): https://mattbierner.github.io/markdown-two-column-documentation-example/ -->
+<div class="begin-columns"></div>
 
+<div class="column">A brief video summary of a recent research project on Twitter diplomacy: </div>
 
-<div class="begin-examples"></div>
+{% include video id="wnph75fbtFM" provider="youtube" %}
 
+<div class="column">June 2021: Participation in a [panel debate at CIDOB](https://www.cidob.org/en/events/thematic_lines_of_research/cidob/dialogos_cidob_fundacion_banco_sabadell) on the impact of social media on diplomacy and foreign affairs (in Spanish): </div>
 
-## Section title
-This text, along with the title, remains in a single colum
+{% include video id="sn84bjmicks" provider="youtube" %}
 
-### Main point you want to make here
+<div class="column">November 2021: Speaker at an online panel by the Delegation of the Catalan Government to the EU and the Centre for Contemporary Studies (CETC): </div>
 
-Some explanatory text.
+{% include video id="_uLAMbfgGyQ" provider="youtube" %}
 
-
-### Main point about code block 1
-
-```
-code block 1
-```
-
-More text explaining code block 2
-
-```
-code block 2
-```
-
-<div class="end-examples"></div>
+<div class="end-columns"></div>
