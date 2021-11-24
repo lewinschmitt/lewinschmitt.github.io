@@ -40,15 +40,12 @@ article .begin-examples ~ .highlight {
     clear: none;
 }
 
-p {
-  color: blue;
-}
 
 .fab2 {
   font-family: "Font Awesome 5 Free";
+  font-style: normal;
 }
 
-$link-color: red;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
