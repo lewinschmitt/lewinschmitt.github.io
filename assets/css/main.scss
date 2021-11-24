@@ -15,7 +15,8 @@
 /* to adapt YouTube embeds to two-column layout */
 
 .fluid-width-video-wrapper {
-  width: 50% !important;
+  max-width: 50% !important;
+  max-height: 50% !important;
 }
 
 
