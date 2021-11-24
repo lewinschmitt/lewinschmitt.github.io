@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://google.com
   - title: "Publications"
-    url: https://google.com
+    url: /#publications
   - title: "CV"
     url: https://google.com
 
