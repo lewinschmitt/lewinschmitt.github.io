@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Our proposals"
-    url: /proposals/
-  - title: "Team"
-    url: /team/
-  - title: "About"
-    url: /about/
-  
+  - title: "Home"
+    url: https://google.com
+  - title: "Publications"
+    url: https://google.com
+  - title: "CV"
+    url: https://google.com
+
 
 # Sidebar
 sidebar:
@@ -25,4 +25,3 @@ sidebar:
       url: /docs/installation/
     - title: "Link 2"
       url: /docs/installation/
-
