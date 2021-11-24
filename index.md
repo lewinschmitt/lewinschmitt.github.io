@@ -95,7 +95,7 @@ Short bio below. A full PDF version of my CV is available upon request.
 
 {% include video id="sn84bjmicks" provider="youtube" %}
 
-<div class="column">November 2021: Speaker at an <a href="https://exteriors.gencat.cat/en/ambits-dactuacio/afers_exteriors/delegacions_govern/ue/agenda/act_211019_actepoldigital" target="_blank">online panel by the Delegation of the Catalan Government to the EU and the Centre for Contemporary Studies (CETC): </div>
+<div class="column">November 2021: Speaker at an <a href="https://exteriors.gencat.cat/en/ambits-dactuacio/afers_exteriors/delegacions_govern/ue/agenda/act_211019_actepoldigital" target="_blank">online panel by the Delegation of the Catalan Government to the EU and the Centre for Contemporary Studies (CETC)</a>: </div>
 
 {% include video id="_uLAMbfgGyQ" provider="youtube" %}
 
