@@ -32,12 +32,20 @@ article .end-examples ~ .highlight {
 }
 
 /* Style For Small Screens */
+
+@media print, screen and (max-width: 580px) {
+
+/*----------------------------
+    Two column layout media
+  ---------------------------*/
 article .begin-examples ~ h3,
 article .begin-examples ~ p,
 article .begin-examples ~ .highlight {
     width: 100%;
     float: none;
     clear: none;
+}
+
 }
 
 
