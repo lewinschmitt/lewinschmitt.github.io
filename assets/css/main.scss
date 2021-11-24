@@ -100,7 +100,7 @@ article .begin-columns ~ .fluid-width-video-wrapper {
 
 
 /*----------------------------
-    Three column layout stuff, courtesy of https://mattbierner.github.io/markdown-two-column-documentation-example/ (adapted)
+    Three column layout stuff
   ---------------------------*/
 /* Main Section Headings and sub headings */
 
@@ -115,6 +115,32 @@ article .begin-columns ~ .fluid-width-video-wrapper {
   display: table;
   clear: both;
 }
+
+/* Responsive stuff, switch from three to two columns */
+@media print, screen and (max-width: 1024px) {
+  .three-columns .column {
+    float: left;
+    width: 50%%;
+  }
+
+  .three-columns.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+}
+
+
+/* Responsive stuff, switch from three to two columns */
+@media print, screen and (max-width: 580px) {
+  .three-columns .column {
+      width: 100%;
+      float: none;
+      clear: none;
+  }
+}
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
