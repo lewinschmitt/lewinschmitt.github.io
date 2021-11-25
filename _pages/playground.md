@@ -9,7 +9,7 @@ header:
   tagline: "Playground: AI on AI policy"
   actions:
     - label: "Read on"
-      url: "#more"
+      url: "#main"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 toc: true
 toc_label: "On this page"
