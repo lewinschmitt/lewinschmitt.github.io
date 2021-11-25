@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_image: /assets/img/cover.jpg
   overlay_filter: rgba(255, 0, 0, 0.5)
-  tagline: Playground: AI on AI policy
+  tagline: "Playground: AI on AI policy"
   actions:
     - label: "Read on"
     - url: "#more"
