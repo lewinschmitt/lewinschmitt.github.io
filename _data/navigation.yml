@@ -4,5 +4,7 @@ main:
     url: /
   - title: "Publications"
     url: /#publications
+  - title: "Playground"
+    url: /playground/
   - title: "CV"
     url: /#cv

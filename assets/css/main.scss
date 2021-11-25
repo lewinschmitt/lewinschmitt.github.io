@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 .page__content p, .page__content li, .page__content dl {
-  font-size: 0.8em;
+  font-size: 0.9em !important;
 }
 
 /* for additional Fontawesome Icons in the footer */
@@ -115,10 +115,16 @@ article .begin-columns ~ .fluid-width-video-wrapper {
   ---------------------------*/
 /* Main Section Headings and sub headings */
 
+.row {
+  width: 100%
+  display: table;
+}
+
 .three-columns .column {
   float: left;
   width: 33.33%;
   padding-right: 1em;
+  display: table-cell;
 }
 
 /* Clear floats after the columns */
