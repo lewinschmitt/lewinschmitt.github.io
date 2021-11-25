@@ -67,13 +67,13 @@ The short term goals of AI Policy Solutions are:
 
 ### Long Term Solutions
 
-- Global Governance: The international community needs to develop a proper understanding of AI as a global phenomenon. The international community needs to develop a framework for global governance of AI.
+- The international community needs to develop a proper understanding of AI as a global phenomenon. The international community needs to develop a framework for **global governance** of AI.
 
-- International Norms: The international community needs to develop international norms for the use of AI.
+- The international community needs to develop **international norms** for the use of AI.
 
-- International Framework: The international community needs to develop an international framework for the development of AI.
+- The international community needs to develop an **international framework** for the development of AI.
 
-- International Standards: The international community needs to develop international standards for the development of AI.
+- The international community needs to develop **international standards** for the development of AI.
 
 ## AI Policy Frameworks
 This section, **AI Policy Frameworks**, provides a list of frameworks that can be used to address the issues. These frameworks can be used to guide research and development work and to provide a common language and framework for discussion and debate.
