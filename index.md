@@ -44,6 +44,7 @@ I am a PhD candidate in political science and international relations at [Pompeu
 
 Below, you will find some selected publications. If interested, you can also find me on [Google Scholar](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt){:target=_"blank"}.
 
+- Badell, D; Schmitt, L. 2021. [Mapping global AI governance: a nascent regime in a fragmented landscape](https://www.tandfonline.com/doi/full/10.1080/09662839.2021.2007476). European Security. https://doi.org/10.1080/09662839.2021.2007476
 - Schmitt, L. 2021. [Mapping global AI governance: a nascent regime in a fragmented landscape](https://doi.org/10.1007/s43681-021-00083-y). AI Ethics. https://doi.org/10.1007/s43681-021-00083-y
 - Schmitt, L. 2021. [What’s in a tweet? Twitter’s impact on public opinion and foreign affairs](https://www.cidob.org/en/publications/publication_series/documents_cidob/what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs){:target="_blank"}. Documents CIDOB. https://doi.org/10.24241/docCIDOB.2021.11
 - Schmitt, L. 2020. [Global AI governance and the Brussels effect](https://www.globe-project.eu/en/global-ai-governance-and-the-brussels-effect_10536){:target="_blank"}. GLOBE Blog.
