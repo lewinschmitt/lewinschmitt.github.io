@@ -80,7 +80,7 @@ Short bio below. A full PDF version of my CV is available upon request.
 - 2015-2016: Internship at the German Institute for Economic Research ([DIW Berlin](https://www.diw.de/en){:target="_blank"})
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 #### Education
 - Since November 2019: PhD in Political and Social Sciences, Pompeu Fabra University, Barcelona
@@ -89,7 +89,7 @@ Short bio below. A full PDF version of my CV is available upon request.
 - 2015: Exchange year at Troy University, USA
 
 </div>
-<div class="column">
+<div class="column" markdown="1">
 
 #### Extracurricular experience
 - Since March 2020: Member of the [Europaeum Scholars Programme](https://europaeum.org/europaeum-scholars-programme/){:target="_blank"}
