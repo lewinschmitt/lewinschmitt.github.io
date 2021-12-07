@@ -71,7 +71,7 @@ I am currently teaching a seminar on [Comparative Politics and Democratization](
 Short bio below. A full PDF version of my CV is available upon request.
 
 <div class="row three-columns">
-<div class="column">
+<div class="column" markdown="1">
 
 #### Professional experience
 - Since November 2019: predoctoral researcher at [Institut Barcelona d'Estudis Internacionals](https://www.ibei.org/en/lewin-schmitt_169391){:target="_blank"} (IBEI), Barcelona
