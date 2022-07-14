@@ -28,7 +28,7 @@ feature_row:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/code.jpg
     alt: "A picture of code"
     title: "How I do it"
-    excerpt: "Mixed methods researcher here. From a methodological point of view, I'm curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NPL and machine learning techniques."
+    excerpt: "Mixed methods researcher here. From a methodological point of view, I'm curious about the use of computational methods in IR and political science. In particular, I enjoy learning more about text mining, NLP and machine learning techniques."
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/profilepic.jpg
     alt: "A picture of myself"
     title: "What else I do"
@@ -50,14 +50,11 @@ Below, you will find some selected publications. If interested, you can also fin
 - Schmitt, L. 2021. [**Mapping global AI governance: a nascent regime in a fragmented landscape**](https://doi.org/10.1007/s43681-021-00083-y). *AI Ethics*. https://doi.org/10.1007/s43681-021-00083-y
 - Schmitt, L. 2021. [**What’s in a tweet? Twitter’s impact on public opinion and foreign affairs**](https://www.cidob.org/en/publications/publication_series/documents_cidob/what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs){:target="_blank"}. *Documents CIDOB*. https://doi.org/10.24241/docCIDOB.2021.11
 - Schmitt, L. 2020. [**Global AI governance and the Brussels effect**](https://www.globe-project.eu/en/global-ai-governance-and-the-brussels-effect_10536){:target="_blank"}. *GLOBE Blog*.
-- Jordana, J.; L. Schmitt; A. Holesch. 2020. [**Understanding Global Governance: the Contribution of Data Sets**](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5cabc72eb&appId=PPGMS){:target="_blank"}. *European Policy Brief*.
-- Borges de Castro, R.; L. Schmitt. 2020. [**COVID-19: Time to Put Strategic Foresight at the Heart of Leadership**](https://www.globe-project.eu/en/covid-19-time-to-put-strategic-foresight-at-the-heart-of-leadership_10031){:target="_blank"}. *GLOBE Blog*.
-- Schmitt, L. 2019. [**Rethinking Strategic Autonomy in the Digital Age**](https://op.europa.eu/en/publication-detail/-/publication/889dd7b7-0cde-11ea-8c1f-01aa75ed71a1/language-en/format-PDF){:target="_blank"}. *EPSC Strategic Notes*, Issue 30.
 
 
 ## Teaching
 
-I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI.
+I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI. Moreover, I will be teaching a course on "Machine Learning for the Social Sciences" at IBEI next academic year.
 
 
 ## Work in progress
