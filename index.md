@@ -54,7 +54,7 @@ Below, you will find some selected publications. If interested, you can also fin
 
 ## Teaching
 
-I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI. Moreover, I will be teaching a course on "Machine Learning for the Social Sciences" at IBEI next academic year.
+I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI. Moreover, I will be teaching a course on "Machine Learning for the Social Sciences" and one on "Advanced Social Research" at IBEI next academic year (2022-2023). 
 
 
 ## Work in progress
