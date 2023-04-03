@@ -14,7 +14,7 @@ header:
     - label: "and here is my CV."
       url: "#cv"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
-excerpt: "I am a PhD candidate in political science and international relations at Pompeu Fabra University. My research interest is on **global AI governance**, with a special focus on EU foreign policy."
+excerpt: "I am a PhD candidate in political science and international relations at Pompeu Fabra University. My research interest is on **global AI governance**, with a special focus on EU politics and foreign policy."
 
 feature_row:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
@@ -45,7 +45,7 @@ I am a PhD candidate in political science and international relations at [Pompeu
 
 Below, you will find some selected publications. If interested, you can also find me on [Google Scholar](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt){:target=_"blank"}.
 
-- Roger, C.; Jordana, J.; Holesch, A.; Schmitt, L. 2022 (*forthcoming*). **Global Governance Research: Exploring Patterns of Growth, Diversity, and Inclusion**. *Global Governance: A Review of Multilateralism and International Organizations*.
+- Roger, C.; Jordana, J.; Holesch, A.; Schmitt, L. 2022. [**Global Governance Research: Exploring Patterns of Growth, Diversity, and Inclusion**](https://brill.com/view/journals/gg/28/4/article-p486_2.xml). *Global Governance: A Review of Multilateralism and International Organizations*.
 - Badell, D.; Schmitt, L. 2021. [**Contested views? Tracing European positions on lethal autonomous weapon systems**](https://www.tandfonline.com/doi/full/10.1080/09662839.2021.2007476). *European Security*. https://doi.org/10.1080/09662839.2021.2007476
 - Schmitt, L. 2021. [**Mapping global AI governance: a nascent regime in a fragmented landscape**](https://doi.org/10.1007/s43681-021-00083-y). *AI Ethics*. https://doi.org/10.1007/s43681-021-00083-y
 - Schmitt, L. 2021. [**What’s in a tweet? Twitter’s impact on public opinion and foreign affairs**](https://www.cidob.org/en/publications/publication_series/documents_cidob/what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs){:target="_blank"}. *Documents CIDOB*. https://doi.org/10.24241/docCIDOB.2021.11
@@ -54,16 +54,17 @@ Below, you will find some selected publications. If interested, you can also fin
 
 ## Teaching
 
-I am currently teaching a seminar on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI. Moreover, I will be teaching a course on "Machine Learning for the Social Sciences" and one on "Advanced Social Research" at IBEI next academic year (2022-2023). 
+I am currently teaching "Advanced Social Research" and "Machine Learning for Social Sciences" for the Master's programmes at IBEI. In the past, I gave what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI.
 
 
 ## Work in progress
 
+- "Good To See You" - a project using NLP techniques to measure the impact of EU leaders' in-person meetings on their speeches
+- "Bad Hygiene" - a quantitative study on the effect of the cordon sanitaire on co-sponsorship of amendments in the European Parliament
+- "AI and democracy: threat or tool" - a systematic analysis of national AI strategies to explore how they conceptualise and frame the nexus of AI and democracy
 - Using machine-learning to estimate party polarization as expressed through parliamentary speech
-- A text mining analysis of Twitter data to study the EU's external relations with selected countries (working paper available [here](https://github.com/lewinschmitt/lewinschmitt.github.io/raw/main/_data/EU_Twitter_diplomacy-a_text-mining_analysis.pdf){:target="_blank"})
-- A policy study on the use of AI for border management in the MENA region; co-authored with [Aitor Bonsoms](https://www.ibei.org/en/aitor-bonsoms_177323){:target="_blank"}.
-- A quantitative study of the global governance literature: "The Study of Global Governance: An Analytic Portrait"; co-authored with [Charles Roger](https://www.ibei.org/en/charles-roger_110937){:target="_blank"}, [Jacint Jordana](https://www.ibei.org/en/jacint-jordana_14355){:target="_blank"} & [Adam Holesch](https://www.ibei.org/en/adam-holesch_34222){:target="_blank"}
-- A large-scale survey of international organizations' staff on their views about future global governance challenges; via the [GLOBE project](https://www.globe-project.eu/en/){:target="_blank"}
+- A text mining analysis of Twitter data to study the EU's external relations with China
+- Analysis of an original [large-scale survey of international organizations' staff](https://globe-survey.eu/) on their views about future global governance challenges; via the [GLOBE project](https://www.globe-project.eu/en/){:target="_blank"}
 - An ongoing mapping of stakeholders and recent developments in global AI governance
 
 
