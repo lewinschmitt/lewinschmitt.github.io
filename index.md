@@ -41,7 +41,7 @@ feature_row:
 I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. You can follow me on [Twitter](https://twitter.com/lewinontheedge){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lewin-schmitt/){:target="_blank"}. You can also reach out via [email](mailto:lewin.schmitt@upf.edu). If I don't respond to an inquiry immediately, I'm likely playing volleyball at the beach.
 
 
-## Publications 
+## Publications
 
 Below, you will find some selected publications. If interested, you can also find me on [Google Scholar](https://scholar.google.com/citations?user=GyhxqV0AAAAJ){:target="_blank"} and [ResearchGate](https://www.researchgate.net/profile/Lewin-Schmitt){:target=_"blank"}.
 
@@ -54,7 +54,7 @@ Below, you will find some selected publications. If interested, you can also fin
 
 ## Teaching
 
-I am currently teaching "Advanced Social Research" and "Machine Learning for Social Sciences" for the Master's programmes at IBEI. In the past, I gave what_s_in_a_tweet_twitter_s_impact_2021_on_public_opinion_and_eu_foreign_affairs on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI.
+I am currently teaching ["Advanced Social Research"](https://www.ibei.org/en/advanced-social-research_24508){:target="_blank"} and ["Machine Learning for Social Sciences"](https://www.ibei.org/en/machine-learning-for-social-sciences_275013){:target="_blank"} for the Master's programmes at IBEI. In the past, I gave seminars on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI.
 
 
 ## Work in progress
