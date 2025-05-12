@@ -14,7 +14,7 @@ header:
     - label: "and here is my CV."
       url: "#cv"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
-excerpt: "I am a political scientist with a PhD from Pompeu Fabra University (defended July 2024). My research interest is on **global AI governance**, with a special focus on EU politics and foreign policy."
+excerpt: "I am a political scientist with a focus on EU politics and foreign affairs. My topical research interest is on ** AI governance** and digital society."
 
 feature_row:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
