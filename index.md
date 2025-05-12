@@ -14,14 +14,14 @@ header:
     - label: "and here is my CV."
       url: "#cv"
   caption: "Photos via [**Unsplash**](https://unsplash.com)"
-excerpt: "I am a PhD candidate in political science and international relations at Pompeu Fabra University. My research interest is on **global AI governance**, with a special focus on EU politics and foreign policy."
+excerpt: "I am a political scientist with a PhD from Pompeu Fabra University (defended July 2024). My research interest is on **global AI governance**, with a special focus on EU politics and foreign policy."
 
 feature_row:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/globalgovernance.jpg
     alt: "An abstract illustration of the world and digital overlays"
     title: "What I study"
     excerpt: "My research interests lie at the intersection of global governance and AI ethics, with a special focus on EU foreign policy.
-    My PhD supervisor is [Jacint Jordana](https://scholar.google.com/citations?user=IQLfIgMAAAAJ&hl=en)."
+    My PhD supervisor was [Jacint Jordana](https://scholar.google.com/citations?user=IQLfIgMAAAAJ&hl=en)."
     url: "#publications"
     btn_label: "Publications"
     btn_class: "btn--primary"
@@ -32,13 +32,13 @@ feature_row:
   - image_path: https://raw.githubusercontent.com/lewinschmitt/lewinschmitt.github.io/main/assets/img/profilepic.jpg
     alt: "A picture of myself"
     title: "What else I do"
-    excerpt: "I am also a predoctoral research fellow at the [Institut Barcelona d’Estudis Internacionals](https://www.ibei.org/en) (IBEI). There, I am working for [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on “Global Governance and the European Union: Future Trends and Scenarios”."
+    excerpt: "I also worked as a predoctoral research fellow at the [Institut Barcelona d’Estudis Internacionals](https://www.ibei.org/en) (IBEI). There, I was associated with [GLOBE](https://www.globe-project.eu/), an exciting Horizon 2020 project on “Global Governance and the European Union: Future Trends and Scenarios”."
 
 ---
 
 {% include feature_row %}
 
-I am a PhD candidate in political science and international relations at [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. You can follow me on [Twitter](https://twitter.com/lewinontheedge){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lewin-schmitt/){:target="_blank"}. You can also reach out via [email](mailto:lewin.schmitt@upf.edu). If I don't respond to an inquiry immediately, I'm likely playing volleyball at the beach.
+I am a political scientist with a PhD from [Pompeu Fabra University](https://www.upf.edu/web/phd-political-and-social-sciences/){:target="_blank"}. You can follow me on [Bluesky](https://bsky.app/profile/lewinontheedge.bsky.social){:target="_blank"} or [LinkedIn](https://www.linkedin.com/in/lewin-schmitt/){:target="_blank"}. You can also reach out via [email](mailto:lewin.schmitt@upf.edu). If I don't respond to an inquiry immediately, I'm likely playing volleyball at the beach.
 
 
 ## Publications
@@ -54,7 +54,7 @@ Below, you will find some selected publications. If interested, you can also fin
 
 ## Teaching
 
-I am currently teaching ["Advanced Social Research"](https://www.ibei.org/en/advanced-social-research_24508){:target="_blank"} and ["Machine Learning for Social Sciences"](https://www.ibei.org/en/machine-learning-for-social-sciences_275013){:target="_blank"} for the Master's programmes at IBEI. In the past, I gave seminars on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI.
+At IBEI, I've taught ["Advanced Social Research"](https://www.ibei.org/en/advanced-social-research_24508){:target="_blank"} and ["Machine Learning for Social Sciences"](https://www.ibei.org/en/machine-learning-for-social-sciences_275013){:target="_blank"} for the Master's programmes at IBEI. In the past, I gave seminars on [Comparative Politics and Democratization](https://www.ibei.org/en/comparative-politics-and-democratization_24324){:target="_blank"} for the Master's in International Relations programme at IBEI.
 
 
 ## Work in progress
@@ -75,7 +75,9 @@ Short bio below. A full PDF version of my CV is available upon request.
 <div class="column" markdown="1">
 
 #### Professional experience
-- Since November 2019: predoctoral researcher at [Institut Barcelona d'Estudis Internacionals](https://www.ibei.org/en/lewin-schmitt_169391){:target="_blank"} (IBEI), Barcelona
+- Since 2024: Digitalization expert at the City of Zurich
+- 2023-2024: Post-doctoral research at the Chair of European Studies, University of Fribourg
+- 2019-2023: predoctoral researcher at [Institut Barcelona d'Estudis Internacionals](https://www.ibei.org/en/lewin-schmitt_169391){:target="_blank"} (IBEI), Barcelona
 - March 2018 - November 2019: Policy Analyst at the European Political Strategy Centre (EPSC), the European Commission’s in-house think tank
 - 2016-2017: Chief Copy Editor at [St Antony's International Review](https://www.stairjournal.com/){:target="_blank"}
 - 2015-2016: Internship at the German Institute for Economic Research ([DIW Berlin](https://www.diw.de/en){:target="_blank"})
